@@ -1,14 +1,5 @@
 # Excel
 
-### Instructions:
-
-- Please download [assignment sheets](Excel_assignment.xlsx?raw=true).
-- The zip archive contains an excel file with three sheets.
-- The file can be opened directly in excel to complete the assignment.
-- Alternatively you can also create a [Microsoft OneDrive](https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage) account to use a free online version of Excel.
-- Follow the instructions as given below.
-
-
 ## Sheet 1 - U.S. Voters (2012)
 
 #### Answer the following questions:
